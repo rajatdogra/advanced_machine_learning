@@ -1,6 +1,6 @@
 # MACHINE LEARNING PROJECTS - FINAL SUBMISSION
 
-**Authors:** Rajat Dogra & Umair Aziz  
+**Authors:** Rajat Dogra 474072 & Umair Aziz 476686
 **Course:** ML2 - Machine Learning 2  
 **Date:** January 10, 2026  
 **University:** University of Warsaw, Faculty of Economic Sciences
