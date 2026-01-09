@@ -7,7 +7,7 @@
 
 ## PROJECT OVERVIEW
 
-This submission contains two comprehensive machine learning projects demonstrating advanced techniques in both regression and classification problems.
+This submission contains two machine learning projects demonstrating advanced techniques in regression and classification problems.
 
 ## PROJECT 1: REGRESSION - Cricket Score Prediction
 
@@ -34,6 +34,7 @@ final_submission/
 ├── classification/                    # Football Match Outcome Classification
 │   ├── football_classification_complete.py    # Main Python script
 │   ├── results/                              # All results and analysis
+│   │   ├── script_output.pdf                 # Output of python script with results 
 │   │   ├── comprehensive_results.txt         # Main results output
 │   │   ├── error_analysis.txt               # Error analysis report
 │   │   └── ethical_considerations.txt       # Ethical considerations
@@ -47,10 +48,6 @@ final_submission/
 │   ├── Cricket_Score_Prediction_Final_Submission.ipynb  # Jupyter notebook
 │   ├── Cricket_Score_Prediction_Final_Submission.pdf   # PDF output
 │   └── regression_dataset.csv                          # IPL Cricket Data
-├── presentation/                      # Combined presentation
-│   ├── ml_projects_presentation.tex   # LaTeX source
-│   ├── wne-logo-new-en.png          # University logo
-│   └── fig_wfo.png                   # Supporting figures
 ```
 
 ## DATASETS USED
@@ -80,9 +77,3 @@ final_submission/
 - **Accuracy:** 65.36%
 - **F1-Score:** 0.6533
 - **Key Insight:** Team strength difference most important feature
-
-## ACKNOWLEDGMENTS
-
-- Kaggle community for high-quality datasets
-- scikit-learn, pandas, matplotlib development teams
-- University of Warsaw ML2 course materials and guidance
