@@ -11,10 +11,10 @@ All cells execute sequentially with detailed outputs.
 
 RESULTS
 =======
-- Best Model: Random Forest
-- R² Score: 0.89
-- RMSE: 12.4 runs
-- MAE: 8.7 runs
+- Best Model: Gradient Boosting (Optimized)
+- R² Score: 0.7222
+- RMSE: 20.1 runs
+- MAE: 14.8 runs
 
 FILES
 =====
@@ -42,14 +42,14 @@ Engineered features including:
 
 ALGORITHMS
 ==========
-- Linear Regression: R² = 0.72
-- Ridge Regression: R² = 0.74
-- Lasso Regression: R² = 0.73
-- Random Forest: R² = 0.89 (BEST)
-- XGBoost: R² = 0.87
-- Gradient Boosting: R² = 0.85
-- Support Vector Regression: R² = 0.81
-- Neural Networks: R² = 0.85
+- Linear Regression: R² = 0.6032
+- Ridge Regression: R² = 0.6031
+- Polynomial Regression: R² = 0.6793
+- Random Forest: R² = 0.6989
+- XGBoost: R² = 0.6650
+- Gradient Boosting: R² = 0.7100
+- Gradient Boosting (Optimized): R² = 0.7222 (BEST)
+- Neural Networks: R² = 0.6549
 
 KEY INSIGHTS
 ============
